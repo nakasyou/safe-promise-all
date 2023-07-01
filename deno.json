@@ -1,0 +1,13 @@
+{
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
+  },
+  "fmt": {
+    "semiColons": false,
+    "indentWidth": 2,
+    "singleQuote": false
+  },
+  "importMap": "import_map.json"
+}
