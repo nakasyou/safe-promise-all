@@ -41,7 +41,7 @@ JSのみの場合は型を削除したりしてください。
 そのまま使いたいなら`export`消したりしてください。
 ### Deno
 ```ts
-import { safePromiseAll } from "https://deno.land/x/safe-promise-all/safe-promise-all.ts"
+import { safePromiseAll } from "https://deno.land/x/safe_promise_all/safe-promise-all.ts"
 ```
 ### npm
 Nodeなんか使わずに[Deno](https://deno.land)使いましょう!
